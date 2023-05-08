@@ -1,1 +1,1 @@
-{}[#]{} Notification : To Contact Us Telegram {}@CasperSecurity {}& {}@BIBIL_0DAY
+\033[31m[#]\033[32m Notification : To Contact Us Telegram \033[32m@CasperSecurity \033[0m& \033[32m@BIBIL_0DAY
